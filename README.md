@@ -1,7 +1,7 @@
 ### Hola! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 # Mi nombre es Franco Buceta 😃
-Soy estudiante en Coderhouse de la carrera Desarrollo Web Full Stack.
+Tengo 27 años y soy estudiante en Coderhouse de la carrera Desarrollo Web Full Stack.
 
 ## 🧐 Acerca de mi
 Además de tener el súper-poder de sentarme las 24hs frente a la computadora sólo para crear cualquier cosa útil, soy una persona con gran capacidad de comunicación, trabajo en equipo y resolución de problemas. También me encanta seguir aprendiendo cada día!.
