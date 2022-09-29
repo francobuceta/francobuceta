@@ -1,10 +1,10 @@
-### Hi there 👋
+### Hola! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">👋
 
-# Gaurav Chouhan 😃
-Independent Sr. Software Consultant | Community Speaker | Co-Founder @ [TheYouthProject](https://github.com/TheYouthProject) | Embracing Technology | Creating Experiences
+# Mi nombre es Franco Buceta 😃
+Soy estudiante en Coderhouse de la carrera Desarrollo Web Full Stack.
 
-## 🧐 About
-Apart from having the super-power of sitting on a desk and code for more than 24 hours just to deliver something that will make world a better place, I am working on democratizing technical education and shape the next generation of engineers and developers.
+## 🧐 Acerca de mi
+Además de tener el súper-poder de sentarme las 24hs frente a la computadora sólo para crear algo útil, soy una persona con gran capacidad de comunicación, trabajo en equipo y resolución de problemas. También me encanta seguir aprendiendo cada día!.
 
 ## 👯 Communities
 - Empowering students with both small and long term initiatives under @ [TheYouthProject](https://theyouthproject.in)
