@@ -12,9 +12,10 @@ Mis conocimientos son:
 - CSS3
 - SASS
 - Bootstrap
-- Node
 - Git
 - JavaScript
+- React
+- Firebase
 
 ## 📫 Contáctame
 - E-mail - francobuceta95@gmail.com
