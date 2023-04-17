@@ -4,17 +4,17 @@
 Tengo 27 años y soy estudiante en Coderhouse de la carrera Desarrollo Web Full Stack.
 
 ## 🧐 Acerca de mi
-Además de tener el súper-poder de sentarme las 24hs frente a la computadora sólo para crear cualquier cosa útil, soy una persona con gran capacidad de comunicación, trabajo en equipo y resolución de problemas. También me encanta seguir aprendiendo cada día!.
+Además de tener el súper-poder de sentarme las 24hs frente a la computadora sólo para crear cualquier cosa útil, soy una persona con gran capacidad de comunicación, trabajo en equipo y resolución de problemas. También me encanta seguir aprendiendo cada día!
 
 ## ⚡ Lenguajes y Tecnologías
 Mis conocimientos son: 
 - HTML5
 - CSS3
 - SASS
-- Bootstrap
 - Git
 - JavaScript
 - React
+- Redux Toolkit
 - Firebase
 
 ## 📫 Contáctame
