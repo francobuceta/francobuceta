@@ -1,10 +1,15 @@
 ### Hola! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 # Mi nombre es Franco Buceta 😃
-Tengo 27 años y soy estudiante en Coderhouse de la carrera Desarrollo Web Full Stack.
+Tengo 27 años y vivo en Buenos Aires, Argentina. Soy un admirador de la tecnología y programador entusiasta. Me dedico al Desarrollo 
+FullStack con mucha pasión y dedicación utilizando JavaScript y el stack MERN.
 
 ## 🧐 Acerca de mi
-Además de tener el súper-poder de sentarme las 24hs frente a la computadora sólo para crear cualquier cosa útil, soy una persona con gran capacidad de comunicación, trabajo en equipo y resolución de problemas. También me encanta seguir aprendiendo cada día!
+Disfruto mucho trabajar en equipo, me adapto rápido a nuevos retos y me encanta mantenerme al día con las últimas tendencias y prácticas top en el mundo del desarrollo. 
+
+Siempre tengo excelente voluntad para escuchar a los clientes y a el equipo para crear soluciones a medida y superar expectativas.
+
+Me gusta el detalle, la organización y poder cumplir con los objetivos en tiempo y forma. 
 
 ## ⚡ Lenguajes y Tecnologías
 Mis conocimientos son: 
