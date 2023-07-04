@@ -12,7 +12,7 @@ Siempre tengo excelente voluntad para escuchar a los clientes y a el equipo para
 Me gusta el detalle, la organización y poder cumplir con los objetivos en tiempo y forma. 
 
 ## ⚡ Lenguajes y Tecnologías
-Mis conocimientos son:  
+Las herramientas que más utilizo son:  
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white) 
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
