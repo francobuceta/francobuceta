@@ -1,7 +1,7 @@
 ### Hola! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 # Mi nombre es Franco Buceta 😃
-Tengo 27 años y vivo en Buenos Aires, Argentina. Soy un admirador de la tecnología y programador entusiasta. Me dedico al Desarrollo 
+Tengo 28 años y vivo en Buenos Aires, Argentina. Soy un admirador de la tecnología y programador entusiasta. Me dedico al Desarrollo 
 FullStack con mucha pasión y dedicación utilizando JavaScript y el stack MERN.
 
 ## 🧐 Acerca de mi
