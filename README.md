@@ -22,6 +22,7 @@ Las herramientas que más utilizo son:
 ![MaterialUi](https://img.shields.io/badge/MaterialUi-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![StyledComponents](https://img.shields.io/badge/Styled%20Components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white)
 ![Next](https://img.shields.io/badge/-Next-000000?style=for-the-badge&logo=nextdotjs)
 ![Redux](https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=Redux&logoColor=white)
