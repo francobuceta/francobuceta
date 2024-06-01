@@ -2,7 +2,7 @@
 
 # Mi nombre es Franco Buceta 😃
 Tengo 28 años y vivo en Buenos Aires, Argentina. Soy un admirador de la tecnología y programador entusiasta. Me dedico al Desarrollo 
-FullStack con mucha pasión y dedicación utilizando JavaScript y el stack MERN.
+FullStack con mucha pasión y dedicación de manera freelance.
 
 ## 🧐 Acerca de mi
 Disfruto mucho trabajar en equipo, me adapto rápido a nuevos retos y me encanta mantenerme al día con las últimas tendencias y prácticas top en el mundo del desarrollo. 
