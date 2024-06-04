@@ -1,3 +1,7 @@
+[![Actions Status](https://github.com/francobuceta/francobuceta/workflows/wakatime-stats/badge.svg)](https://github.com/francobuceta/francobuceta/actions)
+[![Actions Status](https://github.com/francobuceta/francobuceta/workflows/update-gh-activity/badge.svg)](https://github.com/francobuceta/francobuceta/actions)
+![](https://visitor-badge.glitch.me/badge?page_id=francobuceta.francobuceta)
+
 ### Hola! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 # Mi nombre es Franco Buceta 😃
@@ -44,18 +48,17 @@ Las herramientas que más utilizo son:
 
 ---
 
+**:zap: Recent Activity:**
 
-<!--
-**francobuceta/francobuceta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--START_SECTION:activity-->
 
-Here are some ideas to get you started:
+<!--END_SECTION:activity-->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
+<!--START_SECTION:waka-simple-->
+
+
+<!--END_SECTION:waka-simple-->
