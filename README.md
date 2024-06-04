@@ -13,6 +13,11 @@ Siempre tengo excelente voluntad para escuchar a los clientes y a el equipo para
 
 Me gusta el detalle, la organización y poder cumplir con los objetivos en tiempo y forma. 
 
+<!--START_SECTION:waka-->
+
+
+<!--END_SECTION:waka-->
+
 ## ⚡ Lenguajes y Tecnologías
 Las herramientas que más utilizo son:  
 
@@ -45,10 +50,3 @@ Las herramientas que más utilizo son:
 - LinkedIn - [Franco Buceta](https://www.linkedin.com/in/francobuceta/)
 
 ---
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-
-<!--END_SECTION:waka-->
-
