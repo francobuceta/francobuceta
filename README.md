@@ -49,43 +49,44 @@ Las herramientas que más utilizo son:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-584.7%20thousand%20lines%20of%20code-blue)
+**🐱 Mis datos de GitHub** 
 
-**🐱 My GitHub Data** 
-
-> 📦 ? Used in GitHub's Storage 
+> 📦 ? Almacenamiento de GitHub utilizado 
  > 
-> 🏆 1,082 Contributions in the Year 2024
+> 🏆 1,082 Contribuciones durante el año 2024
  > 
-> 🚫 Not Opted to Hire
+> 🚫 No abierto para contratación
  > 
-> 📜 12 Public Repositories 
+> 📜 12 Repositorios Públicos 
  > 
-> 🔑 0 Private Repositories 
+> 🔑 0 Repositorios Privados 
  > 
-**I'm an Early 🐤** 
+**Soy diurno 🐤** 
 
 ```text
-🌞 Morning                692 commits         █████░░░░░░░░░░░░░░░░░░░░   18.26 % 
-🌆 Daytime                1515 commits        ██████████░░░░░░░░░░░░░░░   39.98 % 
-🌃 Evening                1582 commits        ██████████░░░░░░░░░░░░░░░   41.75 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌞 Mañana                 692 commits         █████░░░░░░░░░░░░░░░░░░░░   18.23 % 
+🌆 Día                    1521 commits        ██████████░░░░░░░░░░░░░░░   40.08 % 
+🌃 Tarde                  1582 commits        ██████████░░░░░░░░░░░░░░░   41.69 % 
+🌙 Noche                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **Soy más productivo los Martes** 
+
+```text
+Lunes                    577 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
+Martes                   848 commits         ██████░░░░░░░░░░░░░░░░░░░   22.35 % 
+Miércoles                669 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.63 % 
+Jueves                   724 commits         █████░░░░░░░░░░░░░░░░░░░░   19.08 % 
+Viernes                  616 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
+Sábado                   273 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
+Domingo                  88 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
 ```
 
 
-📊 **This Week I Spent My Time On** 
+**Cronología**
 
-```text
-🕑︎ Time Zone: America/Argentina/Buenos_Aires
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-```
+![Lines of Code chart](https://raw.githubusercontent.com/francobuceta/francobuceta/main/assets/bar_graph.png)
 
 
- Last Updated on 04/06/2024 17:48:08 UTC
+ Last Updated on 04/06/2024 18:18:15 UTC
 <!--END_SECTION:waka-->
 
