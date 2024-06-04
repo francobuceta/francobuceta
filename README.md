@@ -58,7 +58,3 @@ Las herramientas que más utilizo son:
 
 <!--END_SECTION:waka-->
 
-<!--START_SECTION:waka-simple-->
-
-
-<!--END_SECTION:waka-simple-->
