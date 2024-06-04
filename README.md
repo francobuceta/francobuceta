@@ -14,6 +14,38 @@ Siempre tengo excelente voluntad para escuchar a los clientes y a el equipo para
 Me gusta el detalle, la organización y poder cumplir con los objetivos en tiempo y forma. 
 
 <!--START_SECTION:waka-->
+**🐱 Mis datos de GitHub** 
+
+> 📦 ? Almacenamiento de GitHub utilizado 
+ > 
+> 🏆 1,094 Contribuciones durante el año 2024
+ > 
+> 🚫 No abierto para contratación
+ > 
+> 📜 12 Repositorios Públicos 
+ > 
+> 🔑 0 Repositorios Privados 
+ > 
+**Soy diurno 🐤** 
+
+```text
+🌞 Mañana                 692 commits         █████░░░░░░░░░░░░░░░░░░░░   18.16 % 
+🌆 Día                    1536 commits        ██████████░░░░░░░░░░░░░░░   40.31 % 
+🌃 Tarde                  1582 commits        ██████████░░░░░░░░░░░░░░░   41.52 % 
+🌙 Noche                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **Soy más productivo los Martes** 
+
+```text
+Lunes                    577 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
+Martes                   863 commits         ██████░░░░░░░░░░░░░░░░░░░   22.65 % 
+Miércoles                669 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.56 % 
+Jueves                   724 commits         █████░░░░░░░░░░░░░░░░░░░░   19.00 % 
+Viernes                  616 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
+Sábado                   273 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
+Domingo                  88 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
+```
+
 
 
 <!--END_SECTION:waka-->
