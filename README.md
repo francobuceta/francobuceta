@@ -4,7 +4,7 @@
 
 # Mi nombre es Franco Buceta 😃
 Tengo 28 años y vivo en Buenos Aires, Argentina. Soy un admirador de la tecnología y programador entusiasta. Me dedico al Desarrollo 
-FullStack con mucha pasión y dedicación de manera freelance.
+FullStack con mucha pasión, actualmente de forma freelance.
 
 ## 🧐 Acerca de mi
 Disfruto mucho trabajar en equipo, me adapto rápido a nuevos retos y me encanta mantenerme al día con las últimas tendencias y prácticas top en el mundo del desarrollo. 
@@ -69,5 +69,6 @@ Las herramientas que más utilizo son:
 ## 📫 Contáctame
 - E-mail - francobuceta95@gmail.com
 - LinkedIn - [Franco Buceta](https://www.linkedin.com/in/francobuceta/)
+- Web - [Franco Buceta Dev](https://francobucetadev.com.ar/)
 
 ---
