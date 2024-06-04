@@ -1,6 +1,4 @@
 [![Actions Status](https://github.com/francobuceta/francobuceta/workflows/wakatime-stats/badge.svg)](https://github.com/francobuceta/francobuceta/actions)
-[![Actions Status](https://github.com/francobuceta/francobuceta/workflows/update-gh-activity/badge.svg)](https://github.com/francobuceta/francobuceta/actions)
-![](https://visitor-badge.glitch.me/badge?page_id=francobuceta.francobuceta)
 
 ### Hola! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
