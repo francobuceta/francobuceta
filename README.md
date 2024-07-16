@@ -18,8 +18,6 @@ Me gusta el detalle, la organización y poder cumplir con los objetivos en tiemp
 
 > 📦 164.3 kB Almacenamiento de GitHub utilizado 
  > 
-> 🏆 1,492 Contribuciones durante el año 2024
- > 
 > 💼 Abierto a contratación
  > 
 > 📜 12 Repositorios Públicos 
@@ -29,9 +27,9 @@ Me gusta el detalle, la organización y poder cumplir con los objetivos en tiemp
 **Soy diurno 🐤** 
 
 ```text
-🌞 Mañana                 779 commits         █████░░░░░░░░░░░░░░░░░░░░   20.36 % 
-🌆 Día                    1522 commits        ██████████░░░░░░░░░░░░░░░   39.78 % 
-🌃 Tarde                  1525 commits        ██████████░░░░░░░░░░░░░░░   39.86 % 
+🌞 Mañana                 815 commits         █████░░░░░░░░░░░░░░░░░░░░   21.04 % 
+🌆 Día                    1534 commits        ██████████░░░░░░░░░░░░░░░   39.60 % 
+🌃 Tarde                  1525 commits        ██████████░░░░░░░░░░░░░░░   39.36 % 
 🌙 Noche                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
