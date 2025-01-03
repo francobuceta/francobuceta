@@ -18,7 +18,7 @@ Me gusta el detalle, la organización y poder cumplir con los objetivos en tiemp
 
 > 📦 165.8 kB Almacenamiento de GitHub utilizado 
  > 
-> 🏆 1 Contribuciones durante el año 2025
+> 🏆 2 Contribuciones durante el año 2025
  > 
 > 💼 Abierto a contratación
  > 
@@ -29,9 +29,9 @@ Me gusta el detalle, la organización y poder cumplir con los objetivos en tiemp
 **Soy diurno 🐤** 
 
 ```text
-🌞 Mañana                 1421 commits        ██████░░░░░░░░░░░░░░░░░░░   23.17 % 
-🌆 Día                    2494 commits        ██████████░░░░░░░░░░░░░░░   40.66 % 
-🌃 Tarde                  2219 commits        █████████░░░░░░░░░░░░░░░░   36.18 % 
+🌞 Mañana                 1519 commits        ██████░░░░░░░░░░░░░░░░░░░   23.54 % 
+🌆 Día                    2651 commits        ██████████░░░░░░░░░░░░░░░   41.08 % 
+🌃 Tarde                  2283 commits        █████████░░░░░░░░░░░░░░░░   35.38 % 
 🌙 Noche                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
