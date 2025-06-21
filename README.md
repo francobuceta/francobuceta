@@ -4,7 +4,7 @@
 
 # Mi nombre es Franco Buceta 😃
 Tengo 28 años y vivo en Buenos Aires, Argentina. Soy un admirador de la tecnología y programador entusiasta. Me dedico al Desarrollo 
-FullStack con mucha pasión, actualmente de forma freelance.
+FullStack con mucha pasión, actualmente en Idear Mkt & Tech.
 
 ## 🧐 Acerca de mi
 Disfruto mucho trabajar en equipo, me adapto rápido a nuevos retos y me encanta mantenerme al día con las últimas tendencias y prácticas top en el mundo del desarrollo. 
@@ -59,6 +59,7 @@ Las herramientas que más utilizo son:
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![NodeJs](https://img.shields.io/badge/NodeJs-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Nest](https://img.shields.io/badge/Nest-000000?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Mongo](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?logo=swagger&logoColor=black&style=for-the-badge)
