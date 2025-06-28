@@ -16,9 +16,9 @@ Me gusta el detalle, la organización y poder cumplir con los objetivos en tiemp
 <!--START_SECTION:waka-->
 **🐱 Mis datos de GitHub** 
 
-> 📦 166.5 kB Almacenamiento de GitHub utilizado 
+> 📦 166.7 kB Almacenamiento de GitHub utilizado 
  > 
-> 🏆 1,253 Contribuciones durante el año 2025
+> 🏆 1,274 Contribuciones durante el año 2025
  > 
 > 💼 Abierto a contratación
  > 
@@ -29,9 +29,9 @@ Me gusta el detalle, la organización y poder cumplir con los objetivos en tiemp
 **Soy diurno 🐤** 
 
 ```text
-🌞 Mañana                 2568 commits        ███████░░░░░░░░░░░░░░░░░░   26.87 % 
-🌆 Día                    4034 commits        ███████████░░░░░░░░░░░░░░   42.21 % 
-🌃 Tarde                  2956 commits        ████████░░░░░░░░░░░░░░░░░   30.93 % 
+🌞 Mañana                 2578 commits        ███████░░░░░░░░░░░░░░░░░░   26.91 % 
+🌆 Día                    4045 commits        ███████████░░░░░░░░░░░░░░   42.23 % 
+🌃 Tarde                  2956 commits        ████████░░░░░░░░░░░░░░░░░   30.86 % 
 🌙 Noche                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
